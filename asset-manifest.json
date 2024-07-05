@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/windowTracker/static/css/main.bcda99c3.css",
+    "main.js": "/windowTracker/static/js/main.44ba27e5.js",
+    "index.html": "/windowTracker/index.html",
+    "main.bcda99c3.css.map": "/windowTracker/static/css/main.bcda99c3.css.map",
+    "main.44ba27e5.js.map": "/windowTracker/static/js/main.44ba27e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcda99c3.css",
+    "static/js/main.44ba27e5.js"
+  ]
+}
